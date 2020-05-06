@@ -1,2 +1,2 @@
 # Lab Fortinet
-Le répertoire Forti contient les backups des configurations des pare-feux Fortigate.
+Le répertoire Fortinet contient les backups des configurations des 2 pare-feux Fortigate.
